@@ -1,2 +1,2 @@
 # heart-disease
-Binary Logistic Regression Heart Disease
+Dataset Heart Disease using Binary Logistic Regression
